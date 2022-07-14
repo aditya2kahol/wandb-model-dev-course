@@ -1,3 +1,6 @@
+"""
+    Written by: Aditya Kahol
+"""
 import torch.nn as nn
 
 def conv_block(in_channels, out_channels, pool=False):
